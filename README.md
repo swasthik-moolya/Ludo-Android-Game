@@ -10,5 +10,5 @@ Ludo is a popular game to play on smartphones and tablets. When designing a Ludo
 
 -Added friendly user-interface
 
--runs in Android 12
+-It runs in Android 14
 
